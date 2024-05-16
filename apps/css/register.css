@@ -1,0 +1,9 @@
+.register-cont{
+    margin: 40px;
+}
+
+body{
+    background-image: url("../assets/register1.jpg");
+    background-size: cover;
+    overflow-x: hidden;
+}
